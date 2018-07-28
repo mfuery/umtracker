@@ -1,0 +1,4 @@
+Django==2.0.7
+pocketsphinx==0.1.15
+pytz==2018.5
+SpeechRecognition==3.8.1
